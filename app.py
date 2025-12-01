@@ -1,1 +1,2 @@
-app.py
+# app.py
+# Logica de baza
